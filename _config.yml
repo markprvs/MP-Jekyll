@@ -66,6 +66,8 @@ authors:
 # normal = 560px / large = 810px
 width: normal
 
+ddd 
+
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
 # paginate_path: "blog/:num/"
